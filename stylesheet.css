@@ -2,6 +2,9 @@
 body {
   font-family: 'Sriracha', cursive;
   background-image: url("https://github.com/amnahk10/portfolio/blob/master/bknd.jpeg?raw=true");
+  background-repeat: no-repeat;
+  background-position: center; 
+  background-size: cover; 
 }
 h1{
   font-style: italic; 
