@@ -10,5 +10,6 @@ h1{
   font-style: italic; 
   font-size: 50px;
   color: #B885D5;
-  border: 5px dashed black;  
+  border: 5px dashed black; 
+  float: right; 
 }
