@@ -38,12 +38,12 @@ h1{
   font-size: 16px;
 }
 
-.navbar a:hover {
+.navigation a:hover {
   background-color: #BCB6B6;
   color: #F15353
 }
 
-.navbar a.active {
+.navigation a.active {
   background-color: #FFFFF
 }
   
