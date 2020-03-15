@@ -20,7 +20,18 @@ h1{
   font-style: italic; 
   font-size: 50px;
   color: #B885D5;
-  border: 5px dashed black; 
+  border: 5px dashed black;
+  animation-name: h1anim;
+  animation-duration: 4s; 
+  animation-iteration-count: infinite; 
+}
+
+@keyframes h1anim {
+  0% {color: black;}
+  50% {color: #BFB2EA;}
+  100% {color: black;}
+
+
 }
 
 .navigation {
